@@ -4,7 +4,7 @@ Copyright (c) Learning Typescript with Example shandysiswandi. All rights reserv
 
 /**
  * null : adalah variable yang bukan kosong dan juga bukan isi,
- * dalam typescript variable ini mirip dengan undefined
+ * dalam typescript variable ini mirip dengan `undefined`
  */
 
 let a: null = null;
