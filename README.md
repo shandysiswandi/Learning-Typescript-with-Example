@@ -6,6 +6,19 @@ Learn Typescript
 
 - src
   - Basic Types
+    - Boolean
+    - Number
+    - String
+    - Array
+    - Tuple
+    - Enum
+    - Any
+    - Void
+    - Null
+    - Undefined
+    - Never
+    - Object
+    - Type assertions
   - Variable Declarations
   - Interface
   - Classes
@@ -36,6 +49,10 @@ Learn Typescript
 ## Rules
 
 ```typescript
+/**
+ * selalu gunakan `let` atau `const`, dari pada menggunakan `var`, karena lebih aman.
+ */
+
 /**
  * == define variable with let ==
  *
