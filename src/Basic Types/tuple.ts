@@ -5,7 +5,7 @@ Copyright (c) Learning Typescript with Example shandysiswandi. All rights reserv
 /**
  * Tuple : memungkinkan kita untuk mengekspresikan array dengan jumlah tetap elemen yang tipenya diketahui, tetapi tidak harus sama.
  * isi dalam array bisa apa saja, seperti: number, boolean, string dan lain-lain
- * */
+ */
 
 // deklarasi variable tuple type
 let x: [string, number];
